@@ -1,5 +1,7 @@
 # 🛒 跨境电商图片生成工具
 
+**[访问抓虾 Harness 官网 · 查看介绍与下载](https://harness.crawshrimp.com/)**
+
 > 从产品图 → 7平台合规主图 → 详情页长图，一站式生成
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-ecommerce--img--gen-v2.6.0-blue)](https://clawhub.ai/howtimeschange/ecommerce-img-gen)
@@ -9,7 +11,7 @@
 
 欢迎联系作者，交流「电商图片生成」的使用与想法、探讨项目合作，或赞助支持项目持续开发。
 
-使用微信扫描下方二维码添加好友，备注「电商图片生成 + 合作 / 交流 / 赞助」即可。此二维码与[抓虾官网](https://crawshrimp.com/)使用的联系方式一致。
+使用微信扫描下方二维码添加好友，备注「电商图片生成 + 合作 / 交流 / 赞助」即可。
 
 <a href="https://crawshrimp.com/wechat-qr.jpg">
   <img src="https://crawshrimp.com/wechat-qr.jpg" alt="作者的微信联系二维码，用于电商图片生成合作交流与赞助联系" width="280" />
