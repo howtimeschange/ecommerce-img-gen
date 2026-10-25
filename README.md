@@ -1,7 +1,5 @@
 # 🛒 跨境电商图片生成工具
 
-**[访问抓虾 Harness 官网 · 查看介绍与下载](https://harness.crawshrimp.com/)**
-
 > 从产品图 → 7平台合规主图 → 详情页长图，一站式生成
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-ecommerce--img--gen-v2.6.0-blue)](https://clawhub.ai/howtimeschange/ecommerce-img-gen)
